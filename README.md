@@ -15,7 +15,7 @@
 - The original intention of making the project is for, learning, analyzing, and research the latest kernel vulnerabilities are not needed to see the system and related content.
 - This project is a collection of proprietary, except for test failure or unspecified Exp, Demo GIF map
 - If there is an omission of the omission of CVE vulnerabilities, please join your issues and bring your use of tcode.
-- Project code is prohibited from testing in a real environment! The reliability of the code is self-verified, and the cause of the fault you have is not responsible.
+- Project code is prohibited from testing in a real environment! The reliability of the code is setlf-verified, and the cause of the fault you have is not responsible.
 
 **[中文文档](./README.CN.md) | EnglishDocumentation**
 
